@@ -1,3 +1,3 @@
 # CG-Assignment
-Cg assignment 
+Cg Assignment 
 Mini Project Code
